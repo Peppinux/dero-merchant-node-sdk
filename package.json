@@ -1,0 +1,22 @@
+{
+  "name": "dero-merchant-node-sdk",
+  "version": "1.0.0",
+  "description": "NodeJS SDK for DERO Merchant REST API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peppinux/dero-merchant-node-sdk.git"
+  },
+  "author": "Peppinux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peppinux/dero-merchant-node-sdk/issues"
+  },
+  "homepage": "https://github.com/Peppinux/dero-merchant-node-sdk#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
